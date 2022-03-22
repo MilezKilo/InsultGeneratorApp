@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<model type="com.apple.IDECoreDataModeler.DataModel" documentVersion="1.0" lastSavedToolsVersion="19461" systemVersion="20G165" minimumToolsVersion="Automatic" sourceLanguage="Swift" userDefinedModelVersionIdentifier="">
+    <entity name="EvilGenEntity" representedClassName="EvilGenEntity" syncable="YES" codeGenerationType="class">
+        <attribute name="active" optional="YES" attributeType="String"/>
+        <attribute name="comment" optional="YES" attributeType="String"/>
+        <attribute name="created" optional="YES" attributeType="String"/>
+        <attribute name="createdby" optional="YES" attributeType="String"/>
+        <attribute name="insult" optional="YES" attributeType="String"/>
+        <attribute name="language" optional="YES" attributeType="String"/>
+        <attribute name="number" optional="YES" attributeType="String"/>
+        <attribute name="shown" optional="YES" attributeType="String"/>
+    </entity>
+    <elements>
+        <element name="EvilGenEntity" positionX="-63" positionY="-18" width="128" height="149"/>
+    </elements>
+</model>
