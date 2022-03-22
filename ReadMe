@@ -1,0 +1,6 @@
+Do you want to insult your interlocutor or your buddy in a funny way, but you can't think of anything? 
+Then this program is for you! The insult generator creates random funny phrases for you to use in conversation with your interlocutor! 
+
+In this app i used SwiftUI, Combine and CoreData frameworks!
+
+Thanks to https://evilinsult.com for API
